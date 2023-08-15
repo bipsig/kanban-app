@@ -23,7 +23,7 @@ A Kanban board app built using React, where you can manage tasks across differen
 
 ## Demo
 
-You can check out the live demo of the application [here](https://photo-gallery-sagnik.netlify.app/).
+You can check out the live demo of the application [here](https://sagnik-kanban-app.vercel.app/).
 
 ## Tech Stack
 
@@ -66,4 +66,4 @@ You can check out the live demo of the application [here](https://photo-gallery-
 
 ## Contact
 
-For any inquiries or feedback, please contact me at your.email@example.com.
+For any inquiries or suggestions, feel free to contact me at [sagnik.rik.das@gmail.com](mailto:sagnik.rik.das@gmail.com).
